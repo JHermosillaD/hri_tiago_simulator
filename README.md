@@ -2,6 +2,9 @@
 
 ROS package for the simulation of different gazebo-based scenarios using a TIAGo mobile robot and moving actors for human-robot interaction research.
 
+> [!WARNING]  
+> Work in progress
+
 # ROS package to simulate different scenarios
  
 ![Static Badge](https://img.shields.io/badge/ros%20-%20noetic%20-blue) ![GitHub repo size](https://img.shields.io/github/repo-size/jhermosillad/hri_tiago_simulator)
